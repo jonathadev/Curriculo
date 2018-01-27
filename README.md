@@ -28,20 +28,27 @@ Carteira de habilitação: Categoria AB (Desde 2011 / Validade: 2021)
 Telefones para recados (18): 99603-8768, 99717-5275, 3362-1915 e 3362-4704
 
 Formação Acadêmica
+
 Ensino Superior
+
 Curso: Bacharelado em Sistemas de Informação
+
 Início: 2013 fim: 2016 - Duração 4 Anos - Completo
+
 Escola / Instituto: Fundação De Ensino “Eurípides Soares Da Rocha” Centro Universitário Eurípides De
 Marília – UNIVEM (Marília)
+
 O curso me proporcionou aprofundamento em tecnologia de informação, onde trabalhamos com conhecimento
 binário, álgebra booleana, matemática, finanças, contabilidade, administração, gestão empresarial, Rede de
 computadores e Engenharia de software (Astah, Arisexpress).
+
 Entre as linguagens trabalhadas, Linguagens de programação C (dev c++), Java orientado a objetos (Geany/
 Netbens/Eclipse), C # # C Sharp (Visual Studio 2013) e web como Ruby com Rails, api e Banco de dados
 Postgresql (pdadmin 3) Mysql (Work Bench) Oracle (intermediário), Controle de versionamento Git, Github
 e Bitbucket.
 
 TCC: Conceitos e ferramentas de análise em Big Data.
+
 Utilizando a linguagem R para registrar, analisar e apresentar dados.
 
 Experiências Profissionais
