@@ -3,17 +3,28 @@ Repositório para meu currículo
 
 
 JÔNATHA MENDONÇA DOS SANTOS
+
 Telefones: Whatsapp - (14) 9 9185 - 8652 ou (18) 9 9643 - 3828
+
 Nascimento: 31/1/1992 (25 ANOS)
+
 Naturalidade: Brasileiro Estado Civil: Solteiro
+
 Endereço: Rua Francisco Paranhos
+
 Bairro: Jardim Frei Aurélio Di Falco Número: 320 Complemento: casa
+
 Cidade: Garça U.F.: SP CEP: 17400-000 Disponível para viagens e mudança
+
 E-mail 1: jonatha.mendonca@hotmail.com
 Email 2: jonatha.mendonca@univem.edu.br
+
 LinkedIN: https://br.linkedin.com/in/jônatha-mendonça-dos-santos-653b988b
+
 Github: https://github.com/jonathadev
+
 Carteira de habilitação: Categoria AB (Desde 2011 / Validade: 2021)
+
 Telefones para recados (18): 99603-8768, 99717-5275, 3362-1915 e 3362-4704
 
 Formação Acadêmica
