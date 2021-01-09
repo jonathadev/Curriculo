@@ -4,7 +4,7 @@ Repositório para meu currículo
 
 JÔNATHA MENDONÇA DOS SANTOS
 
-Telefones: Whatsapp - 18 997068611 ou (18) 9 9643 - 3828
+Telefones: Whatsapp - 18 997068611 
 
 Nascimento: 31/1/1992 (28 ANOS)
 
@@ -13,10 +13,9 @@ Naturalidade: Brasileiro Estado Civil: Solteiro
 Disponível para viagens e mudança
 
 E-mail 1: jonatha.mendonca@hotmail.com
-Email 2: jonatha.mendonca@univem.edu.br
+Email 2: jonatha.mendonca.santos@gmail.com
 
 LinkedIN: https://br.linkedin.com/in/jônatha-mendonça-dos-santos-653b988b
-
 Github: https://github.com/jonathadev
 
 Carteira de habilitação: Categoria AB (Desde 2011 / Validade: 2021)
@@ -91,7 +90,7 @@ FLISOL: Festival Latino Americano de Instalação de Software Livre – 2013
 
 Demais Conhecimentos:
 Pacote Microsoft office (Word, Excel, Powerpoint 2010 - 2013)
-Sistemas operacionais (Linux Ubuntu 14, Windows 98, XP, Vista, 7, 8 e 10)
+Sistemas operacionais (Linux Ubuntu 14, Kali e Windows 98, XP, Vista, 7, 8 e 10)
 
 Conhecimentos Técnicos
 Assistente Técnico De Hardware - MICRO WAY Duração do Curso: Um Ano
