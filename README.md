@@ -1,6 +1,10 @@
 # Curriculo
 Repositório para meu currículo
 
+LINK DO CURRICULO EM FORMATO PDF NO GOOGLE DRIVE - MAIS ATUALIZADO https://drive.google.com/file/d/1fYkudD-cwVRkBv9quKyPBkJC_wbOO5Dc/view?usp=sharing 
+
+CURRICULUM IN ENGLISH GOOGLE DRIVE 
+https://drive.google.com/file/d/1VvJUgvgXYO1azm1NfHq4CkuUOhEsCmao/view?usp=sharing
 
 JÔNATHA MENDONÇA DOS SANTOS
 
